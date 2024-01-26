@@ -4,7 +4,6 @@ go 1.21
 
 require (
 	github.com/google/gopacket v1.1.19
-	github.com/google/uuid v1.5.0
 	github.com/gorilla/websocket v1.5.1
 	github.com/quic-go/quic-go v0.40.1
 	github.com/sirupsen/logrus v1.9.3
